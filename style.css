@@ -8,7 +8,7 @@ header {
     width: 100%;
 }
 
-.nave-lista {
+.nav-lista {
     display: flex;
     list-style: none;
     color: rgb(0, 0, 0);
@@ -19,7 +19,7 @@ header {
     gap: 28px;
 }
 
-.nave-item:hover {
+.nav-item:hover {
     cursor: pointer;
     background-color: black;
     color: aliceblue;
