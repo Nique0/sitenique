@@ -8,7 +8,7 @@ header {
     width: 100%;
 }
 
-ul {
+.nave-lista {
     display: flex;
     list-style: none;
 color: rgb(0, 0, 0);
@@ -17,4 +17,11 @@ text-transform: uppercase;
 justify-content: center;
 align-items: center;
 gap: 28px;
+}
+
+.nave-item:hover {
+cursor: pointer;
+background-color: black;
+color: aliceblue;
+
 }
